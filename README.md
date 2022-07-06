@@ -7,7 +7,7 @@
 # PojavLauncher Pro
 BEHOLD!!! The greatest fork of pojav.
 I am very happy to announce the creation of pojav pro.
-The launcher that would revolution the world.
+The launcher that would revolutionoice the world.
 The launcher that would be better than both mc*nabox and pojav.
 So i change pojav a bit in first version of pojav pro.
 PIRATES AND RICHES ARE NOW EQUAL.
