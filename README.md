@@ -4,6 +4,16 @@
 [![Reddit](https://img.shields.io/badge/dynamic/json.svg?label=r/PojavLauncher%20member%20count&query=$.data.subscribers&url=https://www.reddit.com/r/PojavLauncher/about.json)](https://reddit.com/r/PojavLauncher) 
 [![Google Play](https://gist.githubusercontent.com/meefik/54a54afa7cc1dc600bdb855cb7895a4a/raw/ad617c006a1ac28d067c9a87cec60199ca8fef7c/get-it-on-google-play.png)](https://play.google.com/store/apps/details?id=net.kdt.pojavlaunch) 
 
+# PojavLauncher Pro
+BEHOLD!!! The greatest fork of pojav.
+I am very happy to announce the creation of pojav pro.
+The launcher that would revolution the world.
+The launcher that would be better than both mc*nabox and pojav.
+So i change pojav a bit in first version of pojav pro.
+PIRATES AND RICHES ARE NOW EQUAL.
+The border that seperates the class pirate and class riches explode into million pieces.
+Both of them can't download minecraft now.
+
 # PojavLauncher 
 
 ## Note
