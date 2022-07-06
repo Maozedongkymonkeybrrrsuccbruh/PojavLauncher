@@ -111,7 +111,7 @@ public abstract class BaseLauncherActivity extends BaseActivity {
             if (LauncherProfiles.mainProfileJson != null && LauncherProfiles.mainProfileJson.profiles != null && LauncherProfiles.mainProfileJson.profiles.containsKey(selectedProfile)) {
                 MinecraftProfile prof = LauncherProfiles.mainProfileJson.profiles.get(selectedProfile);
                 if (prof != null && prof.lastVersionId != null) {
-                    if (mProfile.accessToken.equals("0")) {
+                    if (false) {
                         String versionId = getVersionId(prof.lastVersionId);
                         File verJsonFile = new File(Tools.DIR_HOME_VERSION,
                             versionId + "/" + versionId + ".json");
